@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contexts>
+   <context id="solar_panel_background">
+      <description>Solar Panel Background</description>
+      <topic label="Solar Panel Background"
+             href="solar_panel_background.html#solar_panel_background"/>
+   </context>
+   <context id="ariaid-title1">
+      <description>Solar Panel Background</description>
+      <topic label="Solar Panel Background" href="#ariaid-title1"/>
+   </context>
+</contexts>
